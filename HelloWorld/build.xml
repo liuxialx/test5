@@ -9,7 +9,7 @@
       <javac srcdir="src" destdir="build/classes" includeantruntime="on"/>
    </target> 
    <target name="archive" depends="compile">
-       <war destfile="dist/project.war"
+       <war destfile="target/project.war"
         basedir="build/classes"/>
    </target>
    <target name="clean" depends="init">
