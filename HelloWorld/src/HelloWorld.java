@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Hello World");
          printf("%d,Thank you");
 	 printf("%d,Thank you xiaoyu");
+	 printf("%d,thank you !");
 	 }
 }
