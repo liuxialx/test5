@@ -7,5 +7,6 @@ public class HelloWorld {
 	 printf("%d,Thank you xiaoyu");
 	 printf("%d,thank you !");
 	 printf("%d,thank you !!!");
+	 printf("%d,thank you !!!!");
 	 }
 }
